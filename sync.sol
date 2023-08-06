@@ -1,43 +1,5 @@
-/**
- *Submitted for verification at Etherscan.io on 2023-06-20
-*/
-
-/*
-
-
-             __                                               __    __        _______    ______    ______  
-            /  |                                             /  |  /  |      /       \  /      \  /      \ 
-            $$ |        ______   __    __   ______    ______ $$ |  $$ |      $$$$$$$  |/$$$$$$  |/$$$$$$  |
-            $$ |       /      \ /  |  /  | /      \  /      \$$  \/$$/       $$ |  $$ |$$ |__$$ |$$ |  $$ |
-            $$ |       $$$$$$  |$$ |  $$ |/$$$$$$  |/$$$$$$  |$$  $$<        $$ |  $$ |$$    $$ |$$ |  $$ |
-            $$ |       /    $$ |$$ |  $$ |$$    $$ |$$ |  $$/  $$$$  \       $$ |  $$ |$$$$$$$$ |$$ |  $$ |
-            $$ |_____ /$$$$$$$ |$$ \__$$ |$$$$$$$$/ $$ |      $$ /$$  |      $$ |__$$ |$$ |  $$ |$$ \__$$ |
-            $$       |$$    $$ |$$    $$ |$$       |$$ |     $$ |  $$ |      $$    $$/ $$ |  $$ |$$    $$/ 
-            $$$$$$$$/  $$$$$$$/  $$$$$$$ | $$$$$$$/ $$/      $$/   $$/       $$$$$$$/  $$/   $$/  $$$$$$/  
-                                /  \__$$ |                                                                 
-                                $$    $$/                                                                  
-                                 $$$$$$/                                                                   
-
-https://medium.com/@layerxone.io
-
-https://twitter.com/LayerX_One
-
-https://www.youtube.com/@LayerXOne
-
-https://t.co/GtbbzB3AUH
-
-https://t.me/layerxone
-
-https://discord.gg/5uFSepk87z
-
-https://mirror.xyz/layerxdao.eth
-
-https://galxe.com/layerxdao/campaigns
-
-
-*/
-
 // SPDX-License-Identifier: MIT
+
 pragma solidity ^0.8.0;
 
 interface IERC20 {
